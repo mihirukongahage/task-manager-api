@@ -1,0 +1,10 @@
+node_modules
+dist
+.env
+
+# terraform
+secret.tfvars
+terraform.tfstate
+.terraform.lock.hcl
+terraform.tfstate.backup
+.terraform
